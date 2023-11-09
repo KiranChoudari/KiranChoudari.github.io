@@ -22,11 +22,11 @@ int main(){
     printf("Testing Code Blocks");
 }
 ```
-Skills | Use
------- | -----
-Programming Skills | For Technical Stuff
-Organising Skills | For Organising Events
-Communicating Skills | For better Approching
+| Skills | Use |
+| ------ | ----- |
+| Programming Skills | For Technical Stuff |
+| Organising Skills | For Organising Events |
+| Communicating Skills | For better Approching |
 
 ##  How to approach me ?
 
